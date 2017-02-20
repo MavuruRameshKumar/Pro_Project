@@ -1,0 +1,81 @@
+.my-navbar{
+    background-color: #F0F0F0;
+}
+#navbar-collapse{
+    float: right;
+    color: #5A5A5A;
+    margin-top: 5px;
+}
+.glyphicon-search{
+    float: right;
+}
+.navbar{
+    margin:0;
+    padding: 0;
+}
+.logo{
+    margin: 22px auto 22px 20px;
+}
+.search{
+    margin: 15px auto 8px 0px;
+}
+.arrow{
+    margin-top: 15px;
+    padding-left: 5px;
+}
+.container{
+    background-color: #F0F0F0;
+    width: 100%;
+    padding:0;
+}
+.container-fluid{
+    background-color: #323232;
+    padding-bottom: 70px;
+}
+@font-face{
+    font-family: arial;
+    src: url(Fonts/Arial.ttf);
+}
+@font-face{
+    font-family: arial-bold;
+    src: url(Fonts/Arial_Bold.ttf);
+}
+.img-heading{
+    margin-top: 80px;
+    padding-bottom: 15px;
+}
+.items{
+    width: 100%;
+    padding: 8px 0px 2px 8px;
+    color: white;
+    font-family: arial;
+    background-color: #464646;
+}
+.heading{
+    font-family: arial;
+    font-size: 20px;
+}
+.detail{
+    font-family: arial;
+    font-size: 14px;
+}
+.detail-head{
+    font-family: arial;
+    font-size: 12px;
+}
+.main-heading{
+    font-family: arial-bold;
+    font-weight: bold;
+    font-size: 23px;
+    padding-left: 40px;
+}
+.images{
+    width: 100%;
+}
+.details{
+    width:90%;
+    padding-left: 30px;
+}
+#frontdoor{
+    width: 100%;
+}
